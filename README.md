@@ -1,1 +1,1 @@
-# Kursova_Word_8
+# Course_WD
