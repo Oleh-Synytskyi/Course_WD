@@ -1,11 +1,11 @@
 # Course_WD
 
-#USED
+# USED
 
 - Python 3.7
 - Socket TCP
 
-#Instruction
+# Instruction
 
 1) Сервер та клієнт були написані на мові програмування Python 3.7
 2) Для того щоб стоврити рандомні числа слід запустити файл Create.py 
